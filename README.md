@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" align="right" height="250"/>
 
 🎓 &nbsp;I'm currently studying Electrical at National Institute of Technology, Raipur.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
@@ -34,8 +34,12 @@
 - Struggling on <a href="">LeetCode</a> 😍
 - Practising on <a href="/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/harshita-tyagi-4311a7229/">LinkedIn</a> 😇
- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ <img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+🌐 Web Developer 
+By day, I craft seamless user experiences with HTML, CSS, and JavaScript. By night, I dream in React, Node.js, and the occasional Python script. My journey in the realm of web development has been an adventurous ride through frameworks, libraries, and endless cups of coffee.
 
+## 🤝 Collaborative Spirit
+I believe in the power of collaboration. Open-source contributions, team projects, and community engagements are my way of giving back and growing together. Let's build something amazing!
 
 
 
