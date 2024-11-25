@@ -7,7 +7,7 @@
 
 🎓 &nbsp;I'm currently studying Electrical at National Institute of Technology, Raipur.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
-🌱 &nbsp;Visit my portfolio->https://harshita1102portfolio.netlify.app/\
+🌱 &nbsp;Visit my portfolio->https://harshita1102portfolio.netlify.app/ \
 ✉️ &nbsp;You can shoot me an email at harshitatyagi242@gmail.com! I'll try to respond as soon as I can.
 ###
 
